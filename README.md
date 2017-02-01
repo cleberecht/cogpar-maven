@@ -1,4 +1,4 @@
-cogitolearning-examples
+CogPar
 =======================
 
-All the examples for the tutorials on the Cogito Learning website.
+This is a mavenized version of CogPar, reduced to only working code.
